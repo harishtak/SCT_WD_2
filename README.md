@@ -1,20 +1,20 @@
-Task 02 – Stopwatch Web Application
+## Task 02 – Stopwatch Web Application
 
 This project is part of my Web Development Internship at **SkillCraft Technology**. It is a modern, visually appealing stopwatch web application with interactive features and animations.
 
- 🔧 Features
+ ## 🔧 Features
 - Start, Pause, and Reset functionality
 - Lap time recording
 - Microsecond-level precision
 - Animated UI with impressive background
 - Mobile-responsive design
 
- 📁 Tech Stack
+## 📁 Tech Stack
 - HTML
 - CSS (Animations and Layout)
 - JavaScript (Functionality)
 
-📸 Preview
+## 📸 Preview
 A clean and mobile-style stopwatch interface with engaging design and smooth controls.
 
 ✅ Status
